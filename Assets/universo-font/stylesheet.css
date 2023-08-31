@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Universo';
+    src: url('Universo-Black.eot');
+    src: local('Universo Black'), local('Universo-Black'),
+        url('Universo-Black.eot?#iefix') format('embedded-opentype'),
+        url('Universo-Black.woff2') format('woff2'),
+        url('Universo-Black.woff') format('woff'),
+        url('Universo-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Universo';
+    src: url('Universo-Regular.eot');
+    src: local('Universo'), local('Universo-Regular'),
+        url('Universo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Universo-Regular.woff2') format('woff2'),
+        url('Universo-Regular.woff') format('woff'),
+        url('Universo-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Universo';
+    src: url('Universo-Light.eot');
+    src: local('Universo Light'), local('Universo-Light'),
+        url('Universo-Light.eot?#iefix') format('embedded-opentype'),
+        url('Universo-Light.woff2') format('woff2'),
+        url('Universo-Light.woff') format('woff'),
+        url('Universo-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Universo';
+    src: url('Universo-Bold.eot');
+    src: local('Universo Bold'), local('Universo-Bold'),
+        url('Universo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Universo-Bold.woff2') format('woff2'),
+        url('Universo-Bold.woff') format('woff'),
+        url('Universo-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Universo Stencil';
+    src: url('Universo-Stencil.eot');
+    src: local('Universo Stencil'), local('Universo-Stencil'),
+        url('Universo-Stencil.eot?#iefix') format('embedded-opentype'),
+        url('Universo-Stencil.woff2') format('woff2'),
+        url('Universo-Stencil.woff') format('woff'),
+        url('Universo-Stencil.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Universo';
+    src: url('Universo-Thin.eot');
+    src: local('Universo Thin'), local('Universo-Thin'),
+        url('Universo-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Universo-Thin.woff2') format('woff2'),
+        url('Universo-Thin.woff') format('woff'),
+        url('Universo-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
